@@ -1,0 +1,17 @@
+{
+    "success": true, 
+    "apex_url": "https://sanada-dev-ed.my.salesforce.com/services/Soap/s/35.0", 
+    "rest_url": "https://sanada-dev-ed.my.salesforce.com/services/data/v35.0", 
+    "user_id": "0057F000000e9HEQAY", 
+    "partner_url": "https://sanada-dev-ed.my.salesforce.com/services/Soap/u/35.0", 
+    "headers": {
+        "Authorization": "OAuth 00D7F000001YrZD!AQkAQJZA7ydHWO5YlXSeMfVcIZv09i9sZneSOicBy.NYjsyeOCKitMBDXE2H0ftTbRvkjLUw6pVyUcVG2A_abXA.SwCy.LGI", 
+        "Accept": "application/json", 
+        "Content-Type": "application/json; charset=UTF-8"
+    }, 
+    "session_id": "00D7F000001YrZD!AQkAQJZA7ydHWO5YlXSeMfVcIZv09i9sZneSOicBy.NYjsyeOCKitMBDXE2H0ftTbRvkjLUw6pVyUcVG2A_abXA.SwCy.LGI", 
+    "time_stamp": "2018-03-26 15:04:46", 
+    "instance_url": "https://sanada-dev-ed.my.salesforce.com", 
+    "project name": "github", 
+    "metadata_url": "https://sanada-dev-ed.my.salesforce.com/services/Soap/m/35.0"
+}

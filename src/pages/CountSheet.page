@@ -1,0 +1,41 @@
+<apex:page doctype="html-5.0" standardStylesheets="true" showHeader="true" sidebar="true">
+<head>
+<h1>Employees search</h1>
+<apex:stylesheet value="{!URLFOR($Resource.styles, 'styles.css')}" />
+</head>
+<body>
+<apex:form id="search">
+<table>
+    <tr>
+        <td>
+            <label>name: </label>
+        </td>
+        <td >
+            <apex:inputText id="name" maxlength="20"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label>id: </label>
+        </td>
+        <td>
+            <apex:inputText id="id" maxlength="8"/>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <label>perfomace: </label>
+        </td>
+        <td>
+            <apex:inputText id="perfomace" maxlength="8"/>
+        </td>
+    </tr>
+    <tr>
+        <td columnspan="2" >
+            <apex:commandButton id="update" value="search" />
+        </td>
+    </tr>
+</table>
+</apex:form>
+</body>
+</apex:page>
