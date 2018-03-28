@@ -1,6 +1,6 @@
 <apex:page sidebar="false">
-<apex:pageblock title="User Status">
-<apex:pageblocksection columns="99">
+<apex:pageblock title="123">
+<apex:pageblocksection columns="8">
 </apex:pageblocksection>
 </apex:pageblock>
 </apex:page>
