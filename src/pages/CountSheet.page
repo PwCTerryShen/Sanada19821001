@@ -19,7 +19,7 @@
             <label>id: </label>
         </td>
         <td>
-            <apex:inputText id="id" maxlength="8"/>
+            <apex:inputText id="id" maxlength="9"/>
         </td>
     </tr>
     <tr>
