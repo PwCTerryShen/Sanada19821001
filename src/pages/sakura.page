@@ -1,6 +1,6 @@
 D<apex:page sidebar="false">
 <apex:pageblock title="123">
-<apex:pageblocksection columns="9">
+<apex:pageblocksection columns="7">
 </apex:pageblocksection>
 </apex:pageblock>
 </apex:page>
