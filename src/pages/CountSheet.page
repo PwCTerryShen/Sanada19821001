@@ -27,7 +27,7 @@
             <label>perfomace: </label>
         </td>
         <td>
-            <apex:inputText id="perfomace" maxlength="8"/>
+            <apex:inputText id="perfomace" maxlength="9"/>
         </td>
     </tr>
     <tr>
