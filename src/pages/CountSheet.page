@@ -11,7 +11,7 @@
             <label>name: </label>
         </td>
         <td >
-            <apex:inputText id="name" maxlength="20"/>
+            <apex:inputText id="name" maxlength="21"/>
         </td>
     </tr>
     <tr>
